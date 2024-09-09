@@ -2,8 +2,8 @@ import pandas as pd
 
 import streamlit as st
 
-st.title("App Rodando em Ambiente Virtual")
-st.write("Este aplicativo está rodando em um ambiente virtual com Streamlit!")
+st.title("App de teste")
+st.write("Ola leandro bundao, estou testando pra ver se funciona")
 
 nome = st.text_input("Digite seu nome:")
 if st.button("Enviar"):
