@@ -1,6 +1,7 @@
 import pandas as pd
 import streamlit as st
 import pyperclip
+import openpyxl
 
 #git add -A
 #git status

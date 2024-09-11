@@ -5,6 +5,6 @@
 $pip install streamlit
 $pip install pandas
 $pip install pyperclip
-
+$pip install openpyxl
 
 streamlit run LPAW.py
